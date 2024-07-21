@@ -2,4 +2,27 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <!-- Primary brand color -->
+    <color name="colorPrimary">#FF5722</color>
+    <color name="colorPrimaryDark">#E64A19</color>
+    <color name="colorPrimaryLight">#FFAB91</color>
+    <color name="colorAccent">#FF9800</color>
+
+    <!-- Background colors -->
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorSurface">#F5F5F5</color>
+
+    <!-- Text colors -->
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorOnBackground">#212121</color>
+    <color name="colorOnSurface">#757575</color>
+
+    <!-- Button colors -->
+    <color name="colorButtonNormal">#FF5722</color>
+
+    <!-- Other colors -->
+    <color name="colorError">#D32F2F</color>
+    <color name="colorSuccess">#4CAF50</color>
+    <color name="colorWarning">#FFC107</color>
+    <color name="colorInfo">#2196F3</color>
 </resources>
